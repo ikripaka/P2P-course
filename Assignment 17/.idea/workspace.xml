@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="452344ef-8f1f-4b9b-853d-00f65f7d9e97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 4/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ascii Table.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part1/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part1/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part1/src/com/shpp/p2p/ikripaka/cs/Assignment1/Assignment1Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part1/src/com/shpp/p2p/ikripaka/cs/Assignment1/Assignment1Part1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/Assignment1Part2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/Assignment1Part2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/src/com/shpp/p2p/cs/ikripaka/Assignment1/Assignment1Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/src/com/shpp/p2p/cs/ikripaka/Assignment1/Assignment1Part2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/1x1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/1x1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/1x8.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/1x8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/1х3.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/1х3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/3x3.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/3x3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/3x4.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/3x4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/5x3.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/5x3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/8x1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/8x1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/8x5.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part2/static/mazes/8x5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/Assignment1Part3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/Assignment1Part3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/src/com/shpp/p2p/cs/ikripaka/Assignment1/Assignment1Part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/src/com/shpp/p2p/cs/ikripaka/Assignment1/Assignment1Part3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/1x1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/1x1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/1x8.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/1x8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/1х3.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/1х3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/3x3.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/3x3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/3x4.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/3x4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/5x3.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/5x3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/8x1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/8x1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/8x5.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part3/static/mazes/8x5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part4/Assigment1Part4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part4/Assigment1Part4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1/Assignment1PartN/Assignment1Part4/src/com/shpp/p2p/ikripaka/cs/Assignment1/Assigment1Part4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Ilya.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Ilya.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment17.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment17.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/me.txt" beforeDir="false" afterPath="$PROJECT_DIR$/me.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/poem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/Assignment11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/Assignment11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/Communicator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/Communicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/FunctionCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/FunctionCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/FunctionInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/FunctionInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment11/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment13/Assignment13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment13/Assignment13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment13/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment13/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment13/Searcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment13/Searcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/Archiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/Archiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/Assignment15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/Assignment15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/HuffmanTreeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/HuffmanTreeBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/Switcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/Switcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/Unpacker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment15/Unpacker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomHashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomHashMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_poem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test_poem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unused code.txt" beforeDir="false" afterPath="$PROJECT_DIR$/unused code.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part1/Assignment2Part1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part1/Assignment2Part1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part1/src/com/shpp/p2p/cs/ikripaka/assignment2/Assignment2Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part1/src/com/shpp/p2p/cs/ikripaka/assignment2/Assignment2Part1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part2/Assignment2Part2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part2/Assignment2Part2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part2/src/com/shpp/p2p/cs/ikripaka/assignment2/Assignment2Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part2/src/com/shpp/p2p/cs/ikripaka/assignment2/Assignment2Part2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part3/Assignment2Part3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part3/Assignment2Part3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part3/src/com/shpp/p2p/cs/ikripaka/assignment2/Assignment2Part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part3/src/com/shpp/p2p/cs/ikripaka/assignment2/Assignment2Part3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part4/Assignment2Part4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part4/Assignment2Part4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part4/src/com/shpp/p2p/cs/ikripaka/assignment2/Assignment2Part4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part4/src/com/shpp/p2p/cs/ikripaka/assignment2/Assignment2Part4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part5/Assignment2Part5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part5/Assignment2Part5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part5/src/com/shpp/p2p/cs/ikripaka/assignment2/Assignment2Part5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part5/src/com/shpp/p2p/cs/ikripaka/assignment2/Assignment2Part5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part6/Assignment2Part6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part6/Assignment2Part6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2/Assignment2Part6/src/com/shpp/p2p/cs/ikripaka/assignment2/Assignment2Part6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 2/Assignment2Part6/src/com/shpp/p2p/cs/ikripaka/assignment2/Assignment2Part6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part1/Assignment 3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part1/Assignment 3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part1/src/com/shpp/p2p/cs/ikripaka/assignment3/Assignment3Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part1/src/com/shpp/p2p/cs/ikripaka/assignment3/Assignment3Part1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part2/Assignment3Part2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part2/Assignment3Part2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part2/src/com/shpp/p2p/cs/ikripaka/assignment3/Assignment3Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part2/src/com/shpp/p2p/cs/ikripaka/assignment3/Assignment3Part2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part3/Assignment3Part3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part3/Assignment3Part3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part3/src/com/shpp/p2p/cs/ikripaka/assignment3/Assignment3Part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part3/src/com/shpp/p2p/cs/ikripaka/assignment3/Assignment3Part3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part4/Assignment3Part4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part4/Assignment3Part4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part4/src/com/shpp/p2p/cs/ikripaka/assignment3/Assignment3Part4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part4/src/com/shpp/p2p/cs/ikripaka/assignment3/Assignment3Part4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part5/Assignment3Part5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part5/Assignment3Part5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part5/src/com/shpp/p2p/cs/ikripaka/assignment3/Assignment3Part5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part5/src/com/shpp/p2p/cs/ikripaka/assignment3/Assignment3Part5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part6/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part6/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part6/Assignment3Part6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part6/Assignment3Part6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/Assignment3Part6/src/com/shpp/p2p/cs/ikripaka/assignment3/Assignment3Part6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/Assignment3Part6/src/com/shpp/p2p/cs/ikripaka/assignment3/Assignment3Part6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/Assignment4Breakout1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/Assignment4Breakout1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/src/com/shpp/p2p/cs/ikripaka/assignment4/Assignment4Breakout1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/src/com/shpp/p2p/cs/ikripaka/assignment4/Assignment4Breakout1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/.idea/Assignment5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/.idea/Assignment5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Assignment5Part2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Assignment5Part2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Assignment5Part2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Assignment5Part2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Assignment5Part2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Assignment5Part2/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Assignment5Part2/Assignment5Part2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Assignment5Part2/Assignment5Part2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Assignment5Part2/src/com/shpp/p2p/cs/ikripaka/assignment5/Assignment5Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Assignment5Part2/src/com/shpp/p2p/cs/ikripaka/assignment5/Assignment5Part2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Assignment5Part3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Assignment5Part3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Assignment5Part3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Assignment5Part3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Assignment5Part3/Assignment5Part3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Assignment5Part3/Assignment5Part3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Assignment5Part3/assets/en-dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Assignment5Part3/assets/en-dictionary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Assignment5Part3/src/com/shpp/p2p/cs/ikripaka/assignment5/Assignment5Part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Assignment5Part3/src/com/shpp/p2p/cs/ikripaka/assignment5/Assignment5Part3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/CSV/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/CSV/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/CSV/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/CSV/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/CSV/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/CSV/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/CSV/CSV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/CSV/CSV.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/CSV/assets/taskFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/CSV/assets/taskFile.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/CSV/src/com/shpp/p2p/cs/ikripaka/assignment5/Assignment5Part4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/CSV/src/com/shpp/p2p/cs/ikripaka/assignment5/Assignment5Part4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Part1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Part1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Part1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Part1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Part1/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Part1/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Part1/Part1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Part1/Part1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5/Part1/src/com/shpp/p2p/cs/ikripaka/assignment5/Assignment5Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 5/Part1/src/com/shpp/p2p/cs/ikripaka/assignment5/Assignment5Part1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6/.idea/Assignment6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 6/.idea/Assignment6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 6/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6/untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 6/untitled/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6/untitled/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 6/untitled/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6/untitled/Assignment6Part1_2_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 6/untitled/Assignment6Part1_2_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/.idea/Assignment7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/.idea/Assignment7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/Assignment7Part1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/Assignment7Part1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/Assignment7Part1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/Assignment7Part1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/Assignment7Part1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/Assignment7Part1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/Assignment7Part1/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/Assignment7Part1/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/Assignment7Part1/Assignment7Part1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/Assignment7Part1/Assignment7Part1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/Assignment7Part1/src/com/shpp/cs/ikripaka/assignment7/NameSurferGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/Assignment7Part1/src/com/shpp/cs/ikripaka/assignment7/NameSurferGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/Sanowfall/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/Sanowfall/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/Sanowfall/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/Sanowfall/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/Sanowfall/Sanowfall.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/Sanowfall/Sanowfall.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/Sanowfall/src.com.shpp.p2p.cs.ikripaka.snowfall/Snowfall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/Sanowfall/src.com.shpp.p2p.cs.ikripaka.snowfall/Snowfall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/Sanowfall/src.com.shpp.p2p.cs.ikripaka.snowfall/SnowfallConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/Sanowfall/src.com.shpp.p2p.cs.ikripaka.snowfall/SnowfallConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/Sanowfall/src.com.shpp.p2p.cs.ikripaka.snowfall/Snowflake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/Sanowfall/src.com.shpp.p2p.cs.ikripaka.snowfall/Snowflake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7/me.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 7/me.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CHANGELOG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CHANGELOG.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/Collections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/Collections.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomHashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomHashMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomPriorityQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomPriorityQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam/Exam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam/Exam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam/src/com/shpp/p2p/cs/ikripaka/Exam/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam/src/com/shpp/p2p/cs/ikripaka/Exam/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam/src/com/shpp/p2p/cs/ikripaka/Exam/FallingBalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam/src/com/shpp/p2p/cs/ikripaka/Exam/FallingBalls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam/src/com/shpp/p2p/cs/ikripaka/Exam/FallingBallsConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam/src/com/shpp/p2p/cs/ikripaka/Exam/FallingBallsConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam2/Exam2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2/Exam2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam2/src/com/shpp/p2p/cs/ikripaka/assignment8/Assignment8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2/src/com/shpp/p2p/cs/ikripaka/assignment8/Assignment8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exam2/src/com/shpp/p2p/cs/ikripaka/assignment8/Brick.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam2/src/com/shpp/p2p/cs/ikripaka/assignment8/Brick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/ArchIver.uar" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/ArchIver.uar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/Archive22.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/Archive22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/Archiver2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/Archiver2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/CHANGELOG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/CHANGELOG.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/Huffman2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/Huffman2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/dict.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/dict.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/dict.txt.par" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/dict.txt.par" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/dict.uar" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/dict.uar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/dict1.txt.par" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/dict1.txt.par" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/me.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/me.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/Archiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/Archiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/Assignment15.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/Assignment15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/HuffmanTreeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/HuffmanTreeBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/Switcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/Switcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/Unpacker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/src/com/shpp/p2p/cs/ikripaka/assignment15/Unpacker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huffman/test_poem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Huffman/test_poem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidExam/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MidExam/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidExam/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MidExam/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidExam/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MidExam/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidExam/MidExam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MidExam/MidExam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidExam/src/com/shpp/p2p/cs/ikripaka/MidExam/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MidExam/src/com/shpp/p2p/cs/ikripaka/MidExam/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidExam/src/com/shpp/p2p/cs/ikripaka/MidExam/FallingBalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MidExam/src/com/shpp/p2p/cs/ikripaka/MidExam/FallingBalls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidExam/src/com/shpp/p2p/cs/ikripaka/MidExam/FallingBallsConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MidExam/src/com/shpp/p2p/cs/ikripaka/MidExam/FallingBallsConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2P cource.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../P2P cource.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P2P stanford course projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P2P stanford course projects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows/Shadows.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows/Shadows.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows/src/com/shpp/p2p/cs/ikripaka/assignment12/Assignment12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows/src/com/shpp/p2p/cs/ikripaka/assignment12/Assignment12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows/src/com/shpp/p2p/cs/ikripaka/assignment12/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows/src/com/shpp/p2p/cs/ikripaka/assignment12/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows/src/com/shpp/p2p/cs/ikripaka/assignment12/Searcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows/src/com/shpp/p2p/cs/ikripaka/assignment12/Searcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows1/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows1/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows1/Shadows.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows1/Shadows.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows1/src/com/shpp/p2p/cs/ikripaka/assignment12/Assignment13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows1/src/com/shpp/p2p/cs/ikripaka/assignment12/Assignment13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows1/src/com/shpp/p2p/cs/ikripaka/assignment12/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows1/src/com/shpp/p2p/cs/ikripaka/assignment12/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows1/src/com/shpp/p2p/cs/ikripaka/assignment12/Searcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows1/src/com/shpp/p2p/cs/ikripaka/assignment12/Searcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows2/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows2/Shadows.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows2/Shadows.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows2/assets/img5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows2/assets/img5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows2/src/com/shpp/p2p/cs/ikripaka/assignment13/Assignment13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows2/src/com/shpp/p2p/cs/ikripaka/assignment13/Assignment13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows2/src/com/shpp/p2p/cs/ikripaka/assignment13/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows2/src/com/shpp/p2p/cs/ikripaka/assignment13/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shadows2/src/com/shpp/p2p/cs/ikripaka/assignment13/Searcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Shadows2/src/com/shpp/p2p/cs/ikripaka/assignment13/Searcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASK.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TASK.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for reviever.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../for reviever.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for tests 2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../for tests 2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for tests 2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../for tests 2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for tests 2/for tests 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../for tests 2/for tests 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../me.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../me.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../question.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../question.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1QvrpAo6ddyti3uTgtiGOwulmH0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.shpp.p2p.cs.ikripaka.assignment16" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\P2P cource\Assignment17" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shpp.p2p.cs.ikripaka" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\P2P cource\Assignment 17" />
+      <recent name="G:\P2P cource\Assignment17" />
+      <recent name="G:\P2P cource\Assignment17\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestClass">
+    <configuration name="Assignment13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.ikripaka.assignment13.Assignment13" />
+      <module name="Assignment17" />
+      <option name="PROGRAM_PARAMETERS" value="assets/img22.jpg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.ikripaka.assignment13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.ikripaka.assignment17.TestClass" />
+      <module name="Assignment17" />
+      <option name="PROGRAM_PARAMETERS" value="1.086053,9.630028,5.726285,2.299757,10.175872,0.237076,3.305951,6.536593,-1.695911,8.329147,10.207095,3.408605,9.442538,10.202772,-6.785658,9.389135,8.543847,-0.261707,-2.281925,9.271354,-1.567329,2.683948,8.590227,5.902665,7.67012,6.836808,3.075005,8.332688,5.260161,5.302581,5.619497,-0.866338,5.329046,3.093763,-2.344732,-1.318302,7.118806,-1.125437,4.435345,5.785038,8.124567,0.777239,5.584275,8.597989,6.740871,8.895948,7.836324,8.983768,-1.933054,0.14983,2.192017,4.14233,5.939607,5.275122,8.51666,8.462837,-4.677488,4.220558,8.358316,9.935723,6.372013,2.469916,8.601382,10.100301,9.568505,-0.806579,3.608425,-3.003777,7.996445,8.549732,5.053069,10.258538,-4.980846,0.538829,-3.838776,9.021506,6.094912,-0.622503,4.785251,6.97549,7.320398,8.362315,9.968972,9.267349,-2.89239,10.213219,9.826908,6.978899,8.705404,7.901104,3.675174,10.226961,6.542949,2.088053,2.88848,-6.313809,3.443273,1.632416,3.000399,-6.642769,8.257775,4.008845,9.374401,4.121073,2.31913,4.483587,6.601877,4.165012,4.679989,1.298566,4.42339,8.266105,6.531068,0.98844,1.997627,7.963841,7.48756,7.688516,6.413071,9.100899,5.998505,4.351604,1.385519,-2.162508,2.488391,6.870247,9.767534,-1.571616,2.753831,0.434481,-3.412775,3.394252,5.745128,6.227878,9.280783,2.08072,0.489749,5.38519,4.820203,3.516906,-1.209498,4.528155,3.622392,8.426812,4.672937,4.721294,9.093277,5.463523,-3.182738,-5.384734,-0.588499,9.55019,9.697349,8.976038,6.452093,0.842656,-0.838799,3.94081,-1.102746,3.243825,5.028289,1.260877,-3.306947,3.042344,-1.943506,-0.689013,-2.374738,-3.265175,7.757342,3.932873,-0.669583,5.51912,9.806417,0.521008,1.42509,6.445571,9.735394,8.839109,0.267586,3.381135,4.074401,7.055819,7.731882,3.508994,2.326265,10.335142,7.991972,-1.794079,8.432461,9.55373,4.840216,10.160959,-2.785363,3.01339,3.669501,5.537656,9.1184,-0.617621,8.198604,5.047594 " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.ikripaka.assignment16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16" />
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16.CustomLinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomLinkedListTest.generalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.ikripaka.assignment16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16" />
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16.CustomLinkedListTest" />
+      <option name="METHOD_NAME" value="generalTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomLinkedListTest.isEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.ikripaka.assignment16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16" />
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16.CustomLinkedListTest" />
+      <option name="METHOD_NAME" value="isEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Assignment13" />
+      <item itemvalue="Application.TestClass" />
+      <item itemvalue="JUnit.CustomLinkedListTest" />
+      <item itemvalue="JUnit.CustomLinkedListTest.generalTest" />
+      <item itemvalue="JUnit.CustomLinkedListTest.isEmpty" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="JUnit.CustomLinkedListTest.isEmpty" />
+        <item itemvalue="JUnit.CustomLinkedListTest" />
+        <item itemvalue="Application.Assignment13" />
+        <item itemvalue="JUnit.CustomLinkedListTest.generalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="452344ef-8f1f-4b9b-853d-00f65f7d9e97" name="Default Changelist" comment="" />
+      <created>1559463981885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559463981885</updated>
+      <workItem from="1569345675071" duration="70000" />
+      <workItem from="1569345805005" duration="2347000" />
+      <workItem from="1569354309058" duration="220000" />
+      <workItem from="1569354545814" duration="734000" />
+      <workItem from="1569670778870" duration="2928000" />
+      <workItem from="1569693268630" duration="799000" />
+      <workItem from="1569911890311" duration="410000" />
+      <workItem from="1570519666376" duration="39000" />
+      <workItem from="1571065489009" duration="19033000" />
+      <workItem from="1588760509890" duration="88000" />
+      <workItem from="1588998122914" duration="719000" />
+      <workItem from="1593104005791" duration="1177000" />
+      <workItem from="1594127323054" duration="119000" />
+      <workItem from="1595059195826" duration="75000" />
+      <workItem from="1595429460523" duration="23000" />
+      <workItem from="1612295083971" duration="3128000" />
+      <workItem from="1612436679598" duration="733000" />
+      <workItem from="1612686717307" duration="2695000" />
+    </task>
+    <task id="LOCAL-00001" summary="Correct incorrect creating links for nodes.">
+      <created>1562010210078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562010210078</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Correct incorrect creating links for nodes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Correct incorrect creating links for nodes." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/PriorityQueue.java</url>
+          <line>596</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomHashMapTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue.java</url>
+          <line>207</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment17/TestClass.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue.java</url>
+          <line>203</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Assignment17$CustomHashMapTest_put.ic" NAME="CustomHashMapTest.put Coverage Results" MODIFIED="1560622632739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.shpp.p2p.cs.ikripaka.assignment17.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>node == null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>priorityQueue.size == 128</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>priorityQueue.size == 124</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

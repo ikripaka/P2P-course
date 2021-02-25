@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93bf6b0f-020a-4feb-9d9f-037ea303c963" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment 17/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 4/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/CHANGELOG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/out/production/Assignment17/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/poem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/poem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4/Assignment4Breakout1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 4/Assignment4Breakout1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CHANGELOG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CHANGELOG.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1URA0xXgqE6JIf7DB90QDRdQaJH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment 7" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93bf6b0f-020a-4feb-9d9f-037ea303c963" name="Default Changelist" comment="" />
+      <created>1551884413824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551884413824</updated>
+      <workItem from="1575308815660" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

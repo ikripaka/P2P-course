@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4070df3-2738-4ebb-b7bd-5ae7889fa4f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 17/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/CHANGELOG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment11/Assignment11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment11/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment11/Communicator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment11/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment11/FunctionCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment11/FunctionInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment11/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment13/Assignment13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment13/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment13/Searcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment15/Archiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment15/Assignment15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment15/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment15/HuffmanTreeBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment15/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment15/Switcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment15/Unpacker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomHashMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17/src/com/shpp/p2p/cs/ikripaka/assignment17/CustomPriorityQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CHANGELOG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CHANGELOG.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1904">
+              <caret line="120" column="6" selection-start-line="120" selection-start-column="6" selection-end-line="120" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1853">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomPriorityQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomHashMapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1513">
+              <caret line="92" selection-start-line="92" selection-end-line="92" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>E</find>
+      <find>isEm</find>
+      <find>put</find>
+      <find>ensureCapacity</find>
+      <find>add</find>
+      <find>trimToSize</find>
+      <find>indexOfRange</find>
+      <find>indexOf</find>
+      <find>isEmpty</find>
+      <find>get</find>
+      <find>clea</find>
+      <find>size</find>
+      <find>size()</find>
+      <find>public</find>
+      <find>remove</find>
+      <find>set</find>
+      <find>set(</find>
+      <find>for (</find>
+      <find>Node(</find>
+      <find>setNextLink(</find>
+      <find>elements.length</find>
+      <find>synchronized</find>
+      <find>contains</find>
+      <find>hash</find>
+      <find>hash(</find>
+      <find>K key</find>
+      <find>keySet</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Node&lt;T&gt;(</replace>
+      <replace>next =</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/Tester.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/Assignment16.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/ArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/QueueTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/StackTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomPriorityQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomHashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomHashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomPriorityQueue.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1089" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Collections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment16" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550395837938" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shadows1/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.shpp.p2p.cs.ikripaka.assignment16" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CustomHashMapTest.ToString">
+    <configuration name="CustomArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.ikripaka.assignment16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16" />
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16.CustomArrayListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomArrayListTest.contains" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.ikripaka.assignment16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16" />
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16.CustomArrayListTest" />
+      <option name="METHOD_NAME" value="contains" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomArrayListTest.indexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.ikripaka.assignment16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16" />
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16.CustomArrayListTest" />
+      <option name="METHOD_NAME" value="indexOf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomHashMapTest.ToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.ikripaka.assignment16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16" />
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16.CustomHashMapTest" />
+      <option name="METHOD_NAME" value="ToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomHashMapTest.getOrDefault" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shpp.p2p.cs.ikripaka.assignment16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16" />
+      <option name="MAIN_CLASS_NAME" value="com.shpp.p2p.cs.ikripaka.assignment16.CustomHashMapTest" />
+      <option name="METHOD_NAME" value="getOrDefault" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomHashMapTest.ToString" />
+        <item itemvalue="JUnit.CustomArrayListTest.contains" />
+        <item itemvalue="JUnit.CustomArrayListTest.indexOf" />
+        <item itemvalue="JUnit.CustomArrayListTest" />
+        <item itemvalue="JUnit.CustomHashMapTest.getOrDefault" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4070df3-2738-4ebb-b7bd-5ae7889fa4f6" name="Default Changelist" comment="" />
+      <created>1549402987405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549402987405</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CustomArrayListTest_indexOf - 2019.06.07 at 16h 09m 56s.xml">
+      <configuration name="CustomArrayListTest.indexOf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomArrayListTest_contains - 2019.06.07 at 16h 11m 15s.xml">
+      <configuration name="CustomArrayListTest.contains" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomArrayListTest_contains - 2019.06.07 at 16h 11m 30s.xml">
+      <configuration name="CustomArrayListTest.contains" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomHashMapTest_ToString - 2019.06.08 at 14h 02m 47s.xml">
+      <configuration name="CustomHashMapTest.ToString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomHashMapTest_ToString - 2019.06.08 at 14h 03m 12s.xml">
+      <configuration name="CustomHashMapTest.ToString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomHashMapTest_ToString - 2019.06.08 at 14h 05m 12s.xml">
+      <configuration name="CustomHashMapTest.ToString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomHashMapTest_ToString - 2019.06.08 at 14h 05m 24s.xml">
+      <configuration name="CustomHashMapTest.ToString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomHashMapTest_ToString - 2019.06.08 at 14h 05m 38s.xml">
+      <configuration name="CustomHashMapTest.ToString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomHashMapTest_ToString - 2019.06.08 at 14h 05m 50s.xml">
+      <configuration name="CustomHashMapTest.ToString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomHashMapTest_ToString - 2019.06.08 at 14h 07m 02s.xml">
+      <configuration name="CustomHashMapTest.ToString" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18120806" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33914208" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.3282123" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49932885" weight="0.3282123" />
+      <window_info anchor="bottom" id="Extract Method" order="11" weight="0.23184358" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomPriorityQueueTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomHashMapTest.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomHashMapTest.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomHashMapTest.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="530" column="30" selection-start-line="530" selection-start-column="30" selection-end-line="530" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="657" column="38" lean-forward="true" selection-start-line="657" selection-start-column="38" selection-end-line="657" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="247" column="39" selection-start-line="247" selection-start-column="18" selection-end-line="247" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="113" column="5" lean-forward="true" selection-start-line="105" selection-start-column="4" selection-end-line="113" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2397">
+          <caret line="174" column="15" selection-start-line="174" selection-start-column="15" selection-end-line="174" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Assignment5/Assignment5Part3/src/com/shpp/p2p/cs/ikripaka/assignment5/Assignment5Part3.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="672" column="22" selection-start-line="672" selection-start-column="22" selection-end-line="672" selection-end-column="22" />
+          <folding>
+            <element signature="e#16106#16107#0" expanded="true" />
+            <element signature="e#16151#16152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="67" column="7" lean-forward="true" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+          <folding>
+            <element signature="e#2111#2112#0" expanded="true" />
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="e#5951#6086#0" expanded="true" />
+            <element signature="e#6085#6086#0" expanded="true" />
+            <element signature="e#6484#6648#0" expanded="true" />
+            <element signature="e#6647#6648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/Assignment16.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/Tester.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="463" column="18" selection-start-line="463" selection-start-column="18" selection-end-line="463" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/загрузки telegram/ArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2644">
+          <caret selection-end-line="176" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/LinkedListTest.java" />
+    <entry file="file://G:/загрузки telegram/CustomLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17629">
+          <caret line="1112" column="25" selection-start-line="1112" selection-start-column="25" selection-end-line="1112" selection-end-column="25" />
+          <folding>
+            <element signature="e#42069#42070#0" expanded="true" />
+            <element signature="e#42108#42109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/ArrayListTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/QueueTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/StackTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueueTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStackTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomPriorityQueueTest.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5321">
+          <caret line="344" column="7" selection-start-line="344" selection-start-column="7" selection-end-line="344" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
+          <folding>
+            <element signature="e#4990#4991#0" expanded="true" />
+            <element signature="e#5036#5037#0" expanded="true" />
+            <element signature="e#13877#13878#0" expanded="true" />
+            <element signature="e#13945#13946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="900" column="24" selection-start-line="900" selection-start-column="24" selection-end-line="900" selection-end-column="24" />
+          <folding>
+            <element signature="e#19228#19229#0" expanded="true" />
+            <element signature="e#19311#19312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+          <folding>
+            <element signature="e#10225#10226#0" expanded="true" />
+            <element signature="e#10308#10309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.5.0-M1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="355" selection-start-line="355" selection-end-line="355" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomPriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomHashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shpp/p2p/cs/ikripaka/assignment16/CustomLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="120" column="6" selection-start-line="120" selection-start-column="6" selection-end-line="120" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
